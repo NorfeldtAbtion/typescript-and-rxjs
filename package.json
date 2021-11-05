@@ -1,0 +1,12 @@
+{
+  "name": "tsRxJs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "rxjs": "^7"
+  },
+  "devDependencies": {
+    "@types/chromecast-caf-receiver": "^6.0.6"
+  }
+}
